@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliusSmokes
 - 👀 I’m interested in Azure, PowerShell, & Python
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning IaC
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me in The Mean Streets Of The Interwebs
 
